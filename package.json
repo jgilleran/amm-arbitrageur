@@ -32,9 +32,9 @@
     "@types/async-lock": "^1.1.2",
     "@types/lodash": "^4.14.168",
     "async-lock": "^1.2.8",
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "lodash": "^4.17.21",
     "lodash.combinations": "^18.10.0",
-    "winston": "^3.3.3"
+    "winston": "^3.3.4"
   }
 }
